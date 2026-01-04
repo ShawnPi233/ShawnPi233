@@ -12,8 +12,8 @@ I have been awarded the **Zhejiang Government Scholarship** (3 times) and the **
 - **2025.12:** 🎉 One paper (HQ-SVC) accepted by **AAAI 2026** as the first author!
 - **2025.10:** 🚀 Joined **Zhipu AI** as a Speech Large Model Research Intern.
 - **2025.07:** 🎸 Joined **Tencent Music (QQ Music)** focusing on multi-speaker conversational podcast TTS.
-- **2025.03:** 🎸 Joined **Momo** focusing on paralinguistic TTS and understanding.
-- **2024.06:** 🎉 One paper (SPA-SVC) accepted by **Interspeech 2024** as the first author.
+- **2025.03:** 🧑‍🤝‍🧑 Joined **Momo** focusing on paralinguistic TTS and understanding.
+- **2024.06:** 🎉  One paper (SPA-SVC) accepted by **Interspeech 2024** as the first author.
 
 💻 **Selected Research Papers**
 
