@@ -21,7 +21,7 @@ I have been awarded the **Zhejiang Government Scholarship** (3 times) and the **
 
 [HQ-SVC: High-Quality Zero-Shot Singing Voice Conversion in Low-Resource Scenarios](https://arxiv.org/abs/2511.08496), **Bingsong Bai**, et al., AAAI 2026. [CCF-A]
 
-[SynParaSpeech: Automated Synthesis of Paralinguistic Datasets for Speech Generation and Understanding](https://arxiv.org/abs/2509.14946), **Bingsong Bai**, et al., ICASSP 2026 (under review). [CCF-B]
+[SynParaSpeech: Automated Synthesis of Paralinguistic Datasets for Speech Generation and Understanding](https://arxiv.org/abs/2509.14946), **Bingsong Bai**, et al., ICASSP 2026. [CCF-B]
 
 [SPA-SVC: Self-supervised Pitch Augmentation for Singing Voice Conversion](https://arxiv.org/abs/2406.05692), **Bingsong Bai**, et al., Interspeech 2024. [CCF-C]
 
