@@ -6,7 +6,7 @@ If you are seeking any form of academic cooperation or have inquiries regarding 
 
 I graduated from **Ningbo University (Yangming Innovation Class)** with a bachelor's degree in Computer Science and Technology and am currently pursuing my master's degree at **BUPT (expected 2026)**. I have gained extensive industry experience through internships at **Zhipu AI (智谱)**, **Tencent Music (QQ音乐)** and **Momo (陌陌)**.
 
-I have been awarded the **Zhejiang Government Scholarship** (3 times) and the **BUPT First-Class Scholarship** (2 times). My research has been published or submitted to top-tier conferences such as **AAAI**, **Interspeech**, **ICASSP**, and **ISCSLP**.
+I have been awarded the **Zhejiang Government Scholarship** (3 times) and the **BUPT First-Class Scholarship** (2 times). My research has been accepted for top-tier conferences such as **AAAI**, **Interspeech**, **ICASSP**, and **ISCSLP**.
 
 ## 🔥 **News**
 - **2026.01:** 🎉 One paper (SynParaSpeech) accepted by **ICASSP 2026** as the first author!
