@@ -1,10 +1,10 @@
 # Bingsong Bai
 
-I am currently a Master's student at the School of Artificial Intelligence, **Beijing University of Posts and Telecommunications (BUPT)**, and a Research Intern at **ModelBest(VoxCPM)**. My research interests lie in the intersection of **Large Speech Models (LSM)**, **Singing Voice Conversion (SVC)**, and **Expressive Text-to-Speech (TTS)**.
+I am currently a Master's student at the School of Artificial Intelligence, **Beijing University of Posts and Telecommunications (BUPT)**, and a Research Intern at **ModelBest(面壁智能，VoxCPM)**. My research interests lie in the intersection of **Large Speech Models (LSM)**, **Singing Voice Conversion (SVC)**, and **Expressive Text-to-Speech (TTS)**.
 
 If you are seeking any form of academic cooperation or have inquiries regarding my open-source projects, please feel free to email me at **shawnpi@qq.com**.
 
-I graduated from **Ningbo University (Yangming Innovation Class)** with a bachelor's degree in Computer Science and Technology and am currently pursuing my master's degree at **BUPT (expected 2026)**. I have gained extensive industry experience through internships at **Zhipu AI (智谱)**, **Tencent Music (QQ音乐)** and **Momo (陌陌)**.
+I graduated from **Ningbo University (Yangming Innovation Class)** with a bachelor's degree in Computer Science and Technology and am currently pursuing my master's degree at **BUPT (expected 2026)**. I have gained extensive industry experience through internships at **Zhipu AI (智谱，智谱AI语音输入法)**, **Tencent Music (QQ音乐，天琴实验室)** and **Momo (陌陌)**.
 
 I have been awarded the **Zhejiang Government Scholarship** (3 times) and the **BUPT First-Class Scholarship** (2 times). My research has been accepted for top-tier conferences such as **AAAI**, **Interspeech**, **ICASSP**, and **ISCSLP**.
 
