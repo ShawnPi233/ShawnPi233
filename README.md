@@ -9,6 +9,7 @@ I graduated from **Ningbo University (Yangming Innovation Class)** with a bachel
 I have been awarded the **Zhejiang Government Scholarship** (3 times) and the **BUPT First-Class Scholarship** (2 times). My research has been accepted for top-tier conferences such as **AAAI**, **Interspeech**, **ICASSP**, and **ISCSLP**.
 
 ## 🔥 **News**
+- **2026.03:** 🚀 Joined **ModelBest** as a Large Speech Foundation Model Researcher.
 - **2026.01:** 🎉 One paper (SynParaSpeech) accepted by **ICASSP 2026** as the first author!
 - **2025.12:** 🎉 One paper (HQ-SVC) accepted by **AAAI 2026** as the first author!
 - **2025.10:** 🚀 Joined **Zhipu AI** as a Speech Large Model Research Intern.
