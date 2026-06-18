@@ -1,6 +1,6 @@
 # Bingsong Bai
 
-I am currently a Master's student at the School of Artificial Intelligence, **Beijing University of Posts and Telecommunications (BUPT)**, and a **Foundation Model Algorithm Engineer** at **ModelBest(面壁智能，VoxCPM)**. My research interests lie in the intersection of **Large Speech Models (LSM)**, **Singing Voice Conversion (SVC)**, and **Expressive Text-to-Speech (TTS)**.
+I am a F**oundation Model Algorithm Engineer at ModelBest (面壁智能，VoxCPM)**. I received my Master's degree from the School of Artificial Intelligence, **Beijing University of Posts and Telecommunications (BUPT)**. My research interests lie in the intersection of **Large Speech Models (LSM), Automatic Speech Recognition (ASR), Singing Voice Conversion (SVC), and Expressive Text-to-Speech (TTS)**.
 
 If you are seeking any form of academic cooperation or have inquiries regarding my open-source projects, please feel free to email me at **shawnpi@qq.com**.
 
