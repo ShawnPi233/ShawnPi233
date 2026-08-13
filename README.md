@@ -4,8 +4,6 @@ I am a **Foundation Model Algorithm Engineer at ModelBest (面壁智能，VoxCPM
 
 Prior to joining ModelBest, I earned my Bachelor's degree in **Computer Science and Technology from Ningbo University (Yangming Innovation Class)**. I have gained extensive industry experience through research and engineering internships at **Zhipu AI (智谱AI语音输入法), Tencent Music Entertainment (TME, Lyra Lab / 天琴实验室), and Momo (陌陌)**.
 
-I have been awarded the **Zhejiang Government Scholarship** (3 times) and the **BUPT First-Class Scholarship** (2 times). My research has been accepted for top-tier conferences such as **AAAI**, **Interspeech**, **ICASSP**, and **ISCSLP**.
-
 ## 🔥 **News**
 - **2026.03:** 🚀 Joined **ModelBest** as a Large Speech Foundation Model Researcher.
 - **2026.01:** 🎉 One paper (SynParaSpeech) accepted by **ICASSP 2026** as the first author!
@@ -28,11 +26,5 @@ I have been awarded the **Zhejiang Government Scholarship** (3 times) and the **
 [ExpressiveSinger: Synthesizing Expressive Singing Voice as an Instrument](https://ieeexplore.ieee.org/abstract/document/10800412), Fengping Wang, **Bingsong Bai**, et al., ISCSLP 2024.
 
 ## 🗣 **Large Speech Models & TTS**
-- **GLM-ASR Nano:** Participated in training and SFT of the SOTA open-source ASR model, reaching #1 on [Hugging Face speech model download charts (440k+ downloads in 2 weeks)](https://huggingface.co/zai-org/GLM-ASR-Nano-2512).
+- **GLM-ASR Nano:** Participated in training of the SOTA open-source ASR model, reaching #1 on [Hugging Face speech model download charts (440k+ downloads in 2 weeks)](https://huggingface.co/zai-org/GLM-ASR-Nano-2512).
 - **Multi-Speaker Conversational TTS:** Improving rhythm/pauses by 68.49% in AI Podcasts (Internal Project @ Tencent Music). Participated in [QinYu-TTS](https://tme-lyra-lab.github.io/)
-
-## 🏆 **Awards & Honors**
-- **2023, 2024:** BUPT First-Class Academic Scholarship
-- **2020, 2021, 2022:** Zhejiang Provincial Government Scholarship (3 consecutive years)
-- **2021:** Mathematical Contest in Modeling (MCM) - International Second Prize
-- **2020:** Contemporary Undergraduate Mathematical Contest in Modeling (CUMCM) - Provincial Second Prize
