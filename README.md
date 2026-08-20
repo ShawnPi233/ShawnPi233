@@ -2,7 +2,7 @@
 
 I am a **Foundation Model Algorithm Engineer at ModelBest (面壁智能，VoxCPM)**. I received my Master's degree from the School of Artificial Intelligence, **Beijing University of Posts and Telecommunications (BUPT)**. My research interests lie in the intersection of **Large Speech Models (LSM), Automatic Speech Recognition (ASR), Singing Voice Conversion (SVC), and Expressive Text-to-Speech (TTS)**.
 
-Prior to joining ModelBest, I earned my Bachelor's degree in **Computer Science and Technology from Ningbo University (Yangming Innovation Class)**. I have gained extensive industry experience through research and engineering internships at **Zhipu AI (智谱AI语音输入法), Tencent Music Entertainment (TME, Lyra Lab / 天琴实验室), and Momo (陌陌)**.
+I have gained extensive industry experience through research and engineering internships at **Zhipu AI (智谱AI语音输入法), Tencent Music Entertainment (腾讯音乐天琴实验室), and Momo (陌陌) and Kunlun Inc (昆仑万维)**.
 
 ## 🔥 **News**
 - **2026.03:** 🚀 Joined **ModelBest** as a Large Speech Foundation Model Researcher.
@@ -15,15 +15,13 @@ Prior to joining ModelBest, I earned my Bachelor's degree in **Computer Science 
 
 ## 📑 **Selected Research Papers**
 
-📎 *For a full list of publications, please visit my [Google Scholar](https://scholar.google.com.hk/citations?user=Ay0lQYQAAAAJ&hl=zh-TW).*
+📎 *For a full list of publications, please visit my [Google Scholar](https://scholar.google.com/citations?user=Ay0lQYQAAAAJ).*
 
 [HQ-SVC: High-Quality Zero-Shot Singing Voice Conversion in Low-Resource Scenarios](https://arxiv.org/abs/2511.08496), **Bingsong Bai**, et al., AAAI 2026. [CCF-A]
 
 [SynParaSpeech: Automated Synthesis of Paralinguistic Datasets for Speech Generation and Understanding](https://arxiv.org/abs/2509.14946), **Bingsong Bai**, et al., ICASSP 2026. [CCF-B]
 
 [SPA-SVC: Self-supervised Pitch Augmentation for Singing Voice Conversion](https://arxiv.org/abs/2406.05692), **Bingsong Bai**, et al., Interspeech 2024. [CCF-B]
-
-[ExpressiveSinger: Synthesizing Expressive Singing Voice as an Instrument](https://ieeexplore.ieee.org/abstract/document/10800412), Fengping Wang, **Bingsong Bai**, et al., ISCSLP 2024.
 
 ## 🗣 **Large Speech Models & TTS**
 - **GLM-ASR Nano:** Participated in training of the SOTA open-source ASR model, reaching #1 on [Hugging Face speech model download charts (440k+ downloads in 2 weeks)](https://huggingface.co/zai-org/GLM-ASR-Nano-2512).
