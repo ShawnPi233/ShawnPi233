@@ -2,7 +2,7 @@
 
 I am a **Foundation Model Algorithm Engineer at ModelBest (面壁智能，VoxCPM)**. I received my Master's degree from the School of Artificial Intelligence, **Beijing University of Posts and Telecommunications (BUPT)**. My research interests lie in the intersection of **Large Speech Models (LSM), Automatic Speech Recognition (ASR), Singing Voice Conversion (SVC), and Expressive Text-to-Speech (TTS)**.
 
-I have gained extensive industry experience through research and engineering internships at **Zhipu AI (智谱AI语音输入法), Tencent Music Entertainment (腾讯音乐天琴实验室), and Momo (陌陌) and Kunlun Inc (昆仑万维)**.
+I have gained extensive industry experience through research and engineering internships at **Zhipu AI (智谱AI语音输入法), Tencent Music Entertainment (腾讯音乐天琴实验室), Momo (陌陌) and Kunlun Inc (昆仑万维)**.
 
 ## 🔥 **News**
 - **2026.03:** 🚀 Joined **ModelBest** as a Large Speech Foundation Model Researcher.
