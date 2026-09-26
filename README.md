@@ -1,8 +1,8 @@
 # Bingsong Bai
 
-I am a **Foundation Model Algorithm Engineer at ModelBest (面壁智能，VoxCPM)**. I received my Master's degree from the School of Artificial Intelligence, **Beijing University of Posts and Telecommunications (BUPT)**. My research interests lie in the intersection of **Large Speech Models (LSM), Automatic Speech Recognition (ASR), Singing Voice Conversion (SVC), and Expressive Text-to-Speech (TTS)**.
+I am a **Foundation Model Algorithm Engineer at ModelBest (VoxCPM)**. I received my Master's degree from the School of Artificial Intelligence, **Beijing University of Posts and Telecommunications (BUPT)**. My research interests lie in the intersection of **Large Speech Models (LSM), Automatic Speech Recognition (ASR), Singing Voice Conversion (SVC), and Expressive Text-to-Speech (TTS)**.
 
-I have gained extensive industry experience through research and engineering internships at **Zhipu AI (智谱AI语音输入法), Tencent Music Entertainment (腾讯音乐天琴实验室), Momo (陌陌) and Kunlun Inc (昆仑万维)**.
+I have gained extensive industry experience through research and engineering internships at **Zhipu AI, Tencent Music Entertainment Lyra Lab, Momo and Kunlun Inc**.
 
 ## 🔥 **News**
 - **2026.03:** 🚀 Joined **ModelBest** as a Large Speech Foundation Model Researcher.
@@ -22,7 +22,3 @@ I have gained extensive industry experience through research and engineering int
 [SynParaSpeech: Automated Synthesis of Paralinguistic Datasets for Speech Generation and Understanding](https://arxiv.org/abs/2509.14946), **Bingsong Bai**, et al., ICASSP 2026. [CCF-B]
 
 [SPA-SVC: Self-supervised Pitch Augmentation for Singing Voice Conversion](https://arxiv.org/abs/2406.05692), **Bingsong Bai**, et al., Interspeech 2024. [CCF-B]
-
-## 🗣 **Large Speech Models & TTS**
-- **GLM-ASR Nano:** Participated in training of the SOTA open-source ASR model, reaching #1 on [Hugging Face speech model download charts (440k+ downloads in 2 weeks)](https://huggingface.co/zai-org/GLM-ASR-Nano-2512).
-- **Multi-Speaker Conversational TTS:** Improving rhythm/pauses by 68.49% in AI Podcasts (Internal Project @ Tencent Music). Participated in [QinYu-TTS](https://tme-lyra-lab.github.io/)
